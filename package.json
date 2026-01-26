@@ -1,0 +1,23 @@
+{
+  "name": "goit-node-cli",
+  "version": "1.0.0",
+  "description": "1. Installing dependencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/veo8888/goit-node-cli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/veo8888/goit-node-cli/issues"
+  },
+  "homepage": "https://github.com/veo8888/goit-node-cli#readme",
+  "dependencies": {
+    "commander": "^14.0.2",
+    "nanoid": "^5.1.6"
+  }
+}
